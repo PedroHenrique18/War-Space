@@ -1,2 +1,2 @@
-# War Space
- Jogo feito durante a matéria  Lógica de programção, feito em Java Script
+# Space War
+ Game made during the Programming Logic subject, made in Java Script
